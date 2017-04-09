@@ -1,0 +1,14 @@
+ng-ace-editor {
+  display: block;
+  min-height: 100px;
+  position: relative;
+}
+
+ng-ace-editor > .ng-ace-editor_editor {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
