@@ -2,16 +2,11 @@
   "name": "ng-ace-editor",
   "version": "0.1.0",
   "description": "angular ace editor directive",
-  "main": "ng-ace-editor.js",
+  "main": "lib/ng-ace-editor.js",
   "repository": "attrs/ng-ace-editor",
   "author": "joje <joje.attrs@gmail.com>",
   "homepage": "https://github.com/attrs/ng-ace-editor",
   "license": "MIT",
-  "files": [
-    "*.js",
-    "LICENSE",
-    "README.md"
-  ],
   "dependencies": {
     "brace": "^0.10.0"
   },
@@ -21,5 +16,10 @@
   "devDependencies": {
     "css-loader": "^0.26.4",
     "style-loader": "^0.13.2"
-  }
+  },
+  "files": [
+    "lib",
+    "LICENSE",
+    "README.md"
+  ]
 }
