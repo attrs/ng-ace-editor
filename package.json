@@ -7,9 +7,6 @@
   "author": "joje <joje.attrs@gmail.com>",
   "homepage": "https://github.com/attrs/ng-ace-editor",
   "license": "MIT",
-  "dependencies": {
-    "brace": "^0.10.0"
-  },
   "peerDependencies": {
     "angular": "1.x"
   },
