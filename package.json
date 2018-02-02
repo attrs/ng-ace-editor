@@ -1,6 +1,6 @@
 {
   "name": "ng-ace-editor",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "angular ace editor directive",
   "main": "lib/ng-ace-editor.js",
   "repository": "attrs/ng-ace-editor",
